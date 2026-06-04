@@ -1,0 +1,25 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+shap
+eli5
+jupyter
+
+These libraries support:
+
+data preprocessing
+
+BorderlineSMOTE
+
+ANOVA + RFE feature selection
+
+machine learning models
+
+explainability tools
+
+visualization
