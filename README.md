@@ -58,7 +58,7 @@ Classes include:
 
 Hepa-HISS
 │
-├── Final Code_Hepa_HISS.ipynb
-├── dataset.csv
-├── requirements.txt
+├── Hepa_HISS.ipynb
+├── HepatitisC_dataset.csv
+├── Requirements.txt
 └── README.md
